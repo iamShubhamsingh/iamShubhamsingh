@@ -39,7 +39,8 @@
   Tech: `.NET`, `C#`, `TSQL`, `Angular`, `TypeScript`  
   → Full-featured ride booking application with login/authentication, responsive UI and DB optimization.
 
-- **🧑‍💻 Portfolio Website** (Jan 2025)  
+- **🧑‍💻 Portfolio Website** (Jan 2025)
+  [Project Link](https://portfolio-henna-phi-59.vercel.app/)
   Tech: `HTML`, `CSS`, `JavaScript`  
   → Interactive theme-based personal portfolio with animations, CV download & direct email features.
 
