@@ -4,7 +4,7 @@
 ---
 
 - 🎓 B.Tech in Computer Science from ITM University, Gwalior
-- 💼 Ex-Intern @ Cognizant | Gurugram Police Cyber Security
+- 💼 Ex-Intern @ MyySports | Cognizant | Gurugram Police Cyber Security
 - 🚀 Actively building full-stack projects using Angular, NestJS, and MongoDB/PostgreSQL
 - 🔍 Exploring System Design and Advanced Data Structures & Algorithms
 - 🧠 Love solving problems on LeetCode
